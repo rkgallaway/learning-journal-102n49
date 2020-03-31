@@ -13,3 +13,6 @@ Growth mindset is awesome and gives you the power of the future
 ###### level 6 heading
 
 this is my learning journal
+### Markdown
+
+Markdown is a lightweight language meant for easily displayed web content.
